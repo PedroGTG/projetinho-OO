@@ -17,7 +17,7 @@ Um jogo simples de RPG jogado pelo terminal.
 
 ## Como Executar
 ```
-1. Clone o repositório:
+1. Clone o repositório: https://github.com/PedroGTG/projetinho-OO.git
    usando git bash ou Idle do pyhon
    entra no dirotorio do jogo (Projetinho) e use: < python src/main.py >
 ```
